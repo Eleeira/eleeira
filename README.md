@@ -8,7 +8,7 @@
 ### 🌌 Who am I?
 ```diff
 + I'm Adina
-! Junior Frontend Developer
+! (very) Junior Frontend Developer
 # React | Tailwind | Node.js | Creative Coding
 - Photographer & Designer with a love for neon vibes
 ```
