@@ -1,17 +1,23 @@
 <h1 align="center">⚡👾 Welcome to the Grid 👾⚡</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Coding%20in%20the%20Neon%20City-ff00ff?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Coding%20in%20the%20Neon%20City-39c4b6?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
 ### 🌌 Who am I?
-```diff
-+ I'm Adina
-! (very) Junior Frontend Developer
-# React | Tailwind | Node.js | Creative Coding
-- Photographer & Designer with a love for neon vibes
-```
+
+- 👩‍💻 (Very) Junior Frontend Developer  
+- ⚛️ React | TailwindCSS | Node.js | Creative Coding  
+- 📸 Photographer & Designer with a love for neon vibes
+
+---
+
+| Bio | Foto |
+|-----|------|
+| 👋 Hi, I'm Adina! <br> I'm an aspiring frontend developer, passionate about design and technology. <br> Currently learning React, UI design, and exploring creative ways to merge art with code. <br> I’m particularly interested in opportunities that allow me to grow as a developer and collaborate within multidisciplinary teams.  <br>  🚀 Always eager to learn, build, and contribute to meaningful projects. | <img src="https://github.com/Eleeira/eleeira/blob/0acd411c8a233e16b9117f82dbe605d44e956e35/ele.png" width="200" style="border-radius:50%;" /> |
+
+
 ---
 
 ## 🚀 Tech Stack
@@ -38,7 +44,7 @@
 
 ---
 
-<p align="center"> <img src="https://img.shields.io/badge/Cyberpunk_Mode-ON-ff00ff?style=for-the-badge&logo=github&logoColor=black" /> </p> <p align="center">✨ "Code is the new neon light." ✨</p>
+<p align="center"> <img src="https://img.shields.io/badge/Cyberpunk_Mode-ON-39c4b6?style=for-the-badge&logo=github&logoColor=black" /> </p> <p align="center">✨ "Code is the new neon light." ✨</p>
 
 ---
 
@@ -89,11 +95,12 @@
 
 <p align="center">
 
-  <!-- Status Badge -->
-  <img src="https://img.shields.io/badge/Status-Living%20in%20the%20Neon%20Grid-ff00ff?style=for-the-badge&logo=github&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Status-Living%20in%20the%20Neon%20Grid-39c4b6?style=for-the-badge&logo=github&logoColor=black" />
 
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=eleeira&label=Visitors&color=ff00ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=eleeira&label=Visitors&color=39c4b6&style=for-the-badge" alt="Profile Views" />
+
+
 
 </p>
 
