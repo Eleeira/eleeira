@@ -91,8 +91,6 @@
 
 ---
 
-## 🔮 Fun Cyberpunk Badges
-
 <p align="center">
 
   
