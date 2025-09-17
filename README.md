@@ -15,7 +15,7 @@
 
 | Bio | Foto |
 |-----|------|
-| 👋 Hi, I'm Adina! <br> I'm an aspiring frontend developer, passionate about design and technology. <br> Currently learning React, UI design, and exploring creative ways to merge art with code. <br> I’m particularly interested in opportunities that allow me to grow as a developer and collaborate within multidisciplinary teams.  <br>  🚀 Always eager to learn, build, and contribute to meaningful projects. | <img src="https://github.com/Eleeira/eleeira/blob/0acd411c8a233e16b9117f82dbe605d44e956e35/ele.png" width="200" style="border-radius:50%;" /> |
+| 👋 Hi, I'm Hildur! <br> I'm an aspiring frontend developer, passionate about design and technology. <br> Currently learning React, UI design, and exploring creative ways to merge art with code. <br> I’m particularly interested in opportunities that allow me to grow as a developer and collaborate within multidisciplinary teams.  <br>  🚀 Always eager to learn, build, and contribute to meaningful projects. | <img src="https://github.com/Eleeira/eleeira/blob/0acd411c8a233e16b9117f82dbe605d44e956e35/ele.png" width="200" style="border-radius:50%;" /> |
 
 
 ---
