@@ -5,7 +5,7 @@
     </td>
     <td valign="top" width="62%">
       <h1>
-        <i>안녕하세요, 여러분! Annyeonghaseyo, yeoreobun! 👋</i>
+        <i>안녕하세요! Hello everyone! 👋</i>
       </h1>
       <h3>
         <i>
