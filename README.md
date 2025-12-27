@@ -3,7 +3,7 @@
     <!-- COLONNA SINISTRA -->
     <!-- COLONNA DESTRA: GIF GRANDE -->
     <td valign="center" width="38%" align="center">
-      <img src="/hero.gif" alt="Hero GIF" width="420"/>
+      <img src="/hero.gif" alt="Hero GIF" style="max-width:420px; width:100%; height:auto;"/>
     </td>
     <td valign="top" width="62%">
       <h1>
