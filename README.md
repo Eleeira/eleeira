@@ -46,5 +46,16 @@
         - 📫 Reach me: **adacatucci@gmail.com**
       </details>
     </td>
+<!-- MOBILE FALLBACK -->
+<details>
+  <summary></summary>
+  <div align="center">
+    <img
+      src="assets/hero.gif"
+      alt="Hero GIF mobile"
+      style="max-width:360px; width:90%; height:auto;"
+    />
+  </div>
+</details>
   </tr>
 </table>
