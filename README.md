@@ -1,96 +1,50 @@
-# Adina
-
-Junior Frontend Developer with a background in photography and visual design.  
-Focused on building clean, accessible user interfaces and growing professionally in modern frontend development.
-
----
-
-## About Me
-
-I am an aspiring frontend developer with a strong interest in UI design, visual systems, and creative technologies.  
-My background in photography and design influences how I approach frontend development, with attention to structure, usability, and visual consistency.
-
-I am currently strengthening my skills in React and modern frontend tooling, while exploring how design thinking can be translated into maintainable, production-ready code.  
-I am particularly interested in collaborative environments and opportunities that support continuous learning and professional growth.
-
----
-
-## Tech Stack
-
-### Frontend
-- React
-- JavaScript
-- Tailwind CSS
-- Vite
-
-### Tools & Environments
-- Git & GitHub
-- Linux
-- macOS
-- Windows
-- Bash
-- Visual Studio Code
-
----
-
-## Currently Learning
-- Python
-
----
-
-## Projects
-
-### Adacatucci
-Experimental application focused on creative and exploratory development.  
-https://github.com/eleeira/adacatucci
-
-### Fantasiatelje
-Photography and design portfolio project.  
-https://github.com/eleeira/fantasiatelje
-
-### Main Portfolio (React)
-Personal portfolio built with React.  
-https://github.com/eleeira/main-portfolio-react
-
-### Job Tracker
-Tool designed to organize and track job applications.  
-https://github.com/eleeira/job-tracker
-
----
-
-## Links
-- Portfolio: https://fantasiatelje.se  
-- LinkedIn: https://linkedin.com/in/adadigitalservices  
-- GitHub: https://github.com/eleeira  
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleeira&layout=compact&hide_border=true"
-    alt="Top Languages"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=eleeira&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=eleeira&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=eleeira&label=Profile%20Views&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
+<table>
+  <tr>
+    <!-- COLONNA SINISTRA -->
+    <!-- COLONNA DESTRA: GIF GRANDE -->
+    <td valign="center" width="38%" align="center">
+      <img src="/hero.gif" alt="Hero GIF" width="420"/>
+    </td>
+    <td valign="top" width="62%">
+      <h1>
+        <i>안녕하세요, 여러분! Annyeonghaseyo, yeoreobun! 👋</i>
+      </h1>
+      <h3>
+        <i>
+          I'm <b>Adina</b>, wandering between code, anime worlds, and Korean aesthetics ☆
+        </i>
+      </h3>
+      <div align="center" style="padding:16px 18px; border:1px solid rgba(255,255,255,0.12); border-radius:14px; background:rgba(255,255,255,0.04);">
+        <p>
+          🎓 <b>MfA @</b>Bologna Fine Art Academy · <b>Front-end</b> · <b>UI / Web</b><br/>
+          💻 React · Vite · Tailwind <br/>
+          🧠 Design systems · Performance · Accessibility<br/>
+          🎮 Music · Games · Anime · Code · Art<br/>
+        </p>
+        <br/>
+        <div align="right">
+          <img src="/signature.png" alt="signature" width="200" />
+        </div>
+      </div>
+      <br/>
+      <br/>
+      <p align="left">
+        <a href="https://beaniestech.dev">
+          <img src="https://img.shields.io/badge/BeaniesTech.DEV-111111?style=for-the-badge&logo=googlechrome&logoColor=cyan"/>
+        </a>
+        <a href="https://fantasiatelje.se">
+          <img src="https://img.shields.io/badge/Fantasiateljé-111111?style=for-the-badge&logo=googlechrome&logoColor=purple"/>
+        </a>
+      </p>
+ <!-- SEZIONE EXTRA (opzionale, per riempire come nello screenshot) -->
+      <details>
+        <summary><b>More about me</b></summary>
+        <br/>
+        - 🔭 Currently working on: <b>BeaniesTech.DEV Restilyng</b>
+        - 🌱 Learning: <b>Korean, Swedish, Blender</b>
+        - 🧩 I like: **clean UI, readable code, fast sites**
+        - 📫 Reach me: **adacatucci@gmail.com**
+      </details>
+    </td>
+  </tr>
+</table>
