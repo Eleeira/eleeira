@@ -9,7 +9,7 @@
       </h1>
       <h3>
         <i>
-          I'm <b>Adina</b>, wandering between code, anime worlds, and Korean aesthetics ☆
+          I'm Adina, wandering between code, anime worlds, and Korean aesthetics ☆
         </i>
       </h3>
       <div align="center" style="padding:16px 18px; border:1px solid rgba(255,255,255,0.12); border-radius:14px; background:rgba(255,255,255,0.04);">
@@ -18,23 +18,21 @@
           💻 React · Vite · Tailwind <br/>
           🧠 Design systems · Performance · Accessibility<br/>
           🎮 Music · Games · Anime · Code · Art<br/>
-        </p>
-        <br/>
         <div align="right">
           <img src="/signature.png" alt="signature" width="200" />
         </div>
+       </p>
       </div>
       <br/>
-      <br/>
-      <p align="left">
+      <p align="center">
         <a href="https://beaniestech.dev">
-          <img src="https://img.shields.io/badge/BeaniesTech.DEV-111111?style=for-the-badge&logo=googlechrome&logoColor=cyan"/>
-        </a>
-        <a href="https://fantasiatelje.se">
-          <img src="https://img.shields.io/badge/Fantasiateljé-111111?style=for-the-badge&logo=googlechrome&logoColor=purple"/>
-        </a>
+  <img src="https://img.shields.io/badge/BeaniesTech.DEV-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
+</a>
+
+<a href="https://fantasiatelje.se">
+  <img src="https://img.shields.io/badge/Fantasiatelj%C3%A9-D946EF?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
+</a>
       </p>
- <!-- SEZIONE EXTRA (opzionale, per riempire come nello screenshot) -->
       <details>
         <summary><b>More about me</b></summary>
         <br/>
@@ -42,6 +40,14 @@
         - 🌱 Learning: <b>Korean, Swedish, Blender</b><br/>
         - 🧩 I like: clean UI, readable code, fast sites<br/>
         - 📫 Reach me: adacatucci@gmail.com<br/>
+      </br>
+        <p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-00FFFF?style=for-the-badge&logo=tailwindcss&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" />
+</p>
       </details>
     </td>
   </tr>
