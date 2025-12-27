@@ -1,7 +1,5 @@
 <table>
   <tr>
-    <!-- COLONNA SINISTRA -->
-    <!-- COLONNA DESTRA: GIF GRANDE -->
     <td valign="center" width="38%" align="center">
       <img src="/hero.gif" alt="Hero GIF" style="max-width:420px; width:100%; height:auto;"/>
     </td>
@@ -46,16 +44,16 @@
         - 📫 Reach me: **adacatucci@gmail.com**
       </details>
     </td>
-<!-- MOBILE FALLBACK -->
+  </tr>
+  <!-- MOBILE FALLBACK -->
 <details>
   <summary></summary>
   <div align="center">
     <img
-      src="assets/hero.gif"
+      src="/hero.gif"
       alt="Hero GIF mobile"
       style="max-width:360px; width:90%; height:auto;"
     />
   </div>
 </details>
-  </tr>
 </table>
