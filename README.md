@@ -38,10 +38,10 @@
       <details>
         <summary><b>More about me</b></summary>
         <br/>
-        - 🔭 Currently working on: <b>BeaniesTech.DEV Restilyng</b>
-        - 🌱 Learning: <b>Korean, Swedish, Blender</b>
-        - 🧩 I like: **clean UI, readable code, fast sites**
-        - 📫 Reach me: **adacatucci@gmail.com**
+        - 🔭 Currently working on: <b>BeaniesTech.DEV Restilyng</b><br/>
+        - 🌱 Learning: <b>Korean, Swedish, Blender</b><br/>
+        - 🧩 I like: clean UI, readable code, fast sites<br/>
+        - 📫 Reach me: adacatucci@gmail.com<br/>
       </details>
     </td>
   </tr>
