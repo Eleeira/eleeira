@@ -9,7 +9,7 @@
       </h1>
       <h3>
         <i>
-          I'm Adina, wandering between code, anime worlds, and Korean aesthetics ☆
+          My name is Adina, but everyone calls me Stella, wandering between code, anime worlds, and Korean aesthetics ☆
         </i>
       </h3>
       <div align="center" style="padding:16px 18px; border:1px solid rgba(255,255,255,0.12); border-radius:14px; background:rgba(255,255,255,0.04);">
