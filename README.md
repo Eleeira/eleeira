@@ -25,8 +25,8 @@
       </div>
       <br/>
       <p align="center">
-        <a href="https://beaniestech.dev">
-  <img src="https://img.shields.io/badge/BeaniesTech.DEV-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
+        <a href="https://adacatucci.com">
+  <img src="https://img.shields.io/badge/Stella_HUB-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
 </a>
 
 <a href="https://fantasiatelje.se">
@@ -36,10 +36,10 @@
       <details>
         <summary><b>More about me</b></summary>
         <br/>
-        - 🔭 Currently working on: <b>BeaniesTech.DEV Restilyng</b><br/>
-        - 🌱 Learning: <b>Korean, Swedish, Blender</b><br/>
+        - 🔭 Currently working on: <b>Restylings</b><br/>
+        - 🌱 Learning: <b>Korean, Swedish, Blender & Three.js</b><br/>
         - 🧩 I like: clean UI, readable code, fast sites<br/>
-        - 📫 Reach me: adacatucci@gmail.com<br/>
+        - 📫 Reach me: stellatech.dev@protonmail.com<br/>
       </br>
         <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111111" />
